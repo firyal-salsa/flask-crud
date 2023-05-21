@@ -1,0 +1,39 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+*.env
+
+# IDE/Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+
+# Dependency directories
+/.venv
+/node_modules
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Others
+*.bak
+*.swp
+Thumbs.db
+.DS_Store

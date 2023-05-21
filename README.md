@@ -11,29 +11,36 @@ Aplikasi Phonebook sederhana untuk menyimpan dan mengelola kontak.
 2. Clone repositori ini atau unduh sebagai file ZIP dan ekstrak ke dalam direktori pilihan Anda.
   ```bash
   https://github.com/firyal-salsa/flask-crud.git
+  ```
 
 3. Masuk ke direktori proyek.
   ```bash
   cd phonebook
+  ```
 
 4. Buat virtual environment menggunakan venv atau virtualenv.
   ```bash
   python -m venv env
+  ```
 
 5. Aktifkan virtual environment.
   ```bash
   env\Scripts\activate
+  ```
 
 6. Pasang semua dependensi yang diperlukan.
   ```bash
   pip install -r requirements.txt
+  ```
 
 7. Atur variabel yang diperlukan
   ```bash
   set FLASK_APP=app.py
+  ```
 8. Jalankan aplikasi Flask.
   ```bash
   flask run
+  ```
 9. Buka browser dan akses http://localhost:5000 untuk melihat aplikasi Phonebook.
 
 

@@ -1,7 +1,5 @@
 # Phonebook
 
-![Phonebook Icon](https://raw.githubusercontent.com/username/repo/main/phonebook-icon.png)
-
 Aplikasi Phonebook sederhana untuk menyimpan dan mengelola kontak.
 
 ## Instalasi

@@ -1,0 +1,31 @@
+# Python-specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Virtual Environment
+env/
+
+# Compiled files
+*.class
+*.dll
+*.exe
+*.o
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Other
+.DS_Store
+*.swp
+Thumbs.db
